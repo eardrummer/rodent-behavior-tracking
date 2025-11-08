@@ -23,7 +23,7 @@ The main script `sketch.js` loads a video file of a rodent recorded from above, 
 
 ---
 
-![Rodent tracking visualization](documentation/example-analysis-1.png)
+![Rodent tracking visualization](documentation/example-analysis-3.png)
 
 
 ##  How It Works
