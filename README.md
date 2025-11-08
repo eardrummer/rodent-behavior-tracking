@@ -3,7 +3,7 @@
 This codebase was created in June 2023 as part of academic work supporting PhD Thesis research at MD Anderson Cancer Center
 (More citation to come)
 
-It’s designed for experiments such as **open-field**, **object recognition**, or **maze exploration**, where position tracking is essential.
+It is designed for experiments such as **open-field**, **object recognition**, or **maze exploration**, where position tracking is essential.
 
 The main script `sketch.js` loads a video file of a rodent recorded from above, applies image segmentation via **VIDA.js**, and tracks movement in real time.  
 
@@ -111,5 +111,5 @@ Developed using:
 - [p5.js](https://p5js.org/) by the Processing Foundation  
 - [VIDA.js](https://github.com/danielgarda/VIDA) by Daniel Szymanowski  
 - Sample dataset: Top-view rodent behavioral recordings (One Touch/OFT 1)
-- Code created by Manaswi Mishra
+- Code created by Manaswi Mishra (MIT Media Lab) on June 2023.
 
