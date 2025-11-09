@@ -54,7 +54,7 @@ The main script `sketch.js` loads a video file of a rodent recorded from above, 
 
 ### 1. Requirements
 - [p5.js](https://p5js.org/)
-- [VIDA.js](https://github.com/danielgarda/VIDA)
+- [VIDA.js](https://www.tetoki.eu/vida/)
 - A modern web browser (Chrome, Firefox, or Edge recommended)
 - A local HTTP server (e.g., `p5.js` editor, VSCode Live Server, or Python `http.server`)
 
@@ -109,7 +109,7 @@ You are free to use, modify, and distribute it with proper attribution.
 
 Developed using:
 - [p5.js](https://p5js.org/) by the Processing Foundation  
-- [VIDA.js](https://github.com/danielgarda/VIDA) by Daniel Szymanowski  
+- [VIDA.js](https://www.tetoki.eu/vida/) by Paweł Janicki  
 - Sample dataset: Top-view rodent behavioral recordings (One Touch/OFT 1)
 - Code created by Manaswi Mishra (MIT Media Lab) on June 2023.
 
